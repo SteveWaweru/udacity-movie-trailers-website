@@ -1,23 +1,20 @@
-    
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+## Introduction
+This is a server side program that creates a Movie Trailer Website which shows some information about the movie. The details include.
 
+- 'poster': poster image for the movie
+- 'trailer': Show trailer for the movie on click
+- 'title': Title for the movie
+- 'genre': Genre of the movie
 
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+## Installation
+Dependencies
 
+- Python 2.7
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+Get the code from the github repository [here](https://github.com/SteveWaweru/udacity-movie-trailers-website) or download the zip [here](https://github.com/SteveWaweru/udacity-movie-trailers-website/archive/master.zip)
+After extracting, navigate to the root folder using your terminal and run the file 'entertainment_center.py'._
 
+```
+$ python entertainment_center.py
+```
 
-Provide code examples and explanations of how to get the project.
-
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-
-Describe and show how to run the tests with code examples.
-
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-
-A short snippet describing the license (MIT, Apache, etc.)
