@@ -9,8 +9,9 @@ class Movie:
         trailer_youtube_url (str): The url for the youtube trailer for the movie
     '''
     # Constructor to intialize the class with the arguments given.
-    def __init__(self, movie_title, poster_image, trailer_youtube_url):
+    def __init__(self, movie_title, poster_image, trailer_youtube_url, genre):
         self.title = movie_title
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube_url
+        self.genre = genre
 
