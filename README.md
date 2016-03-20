@@ -11,7 +11,8 @@ Dependencies
 
 - Python 2.7
 
-Get the code from the github repository [here](https://github.com/SteveWaweru/udacity-movie-trailers-website) or download the zip [here](https://github.com/SteveWaweru/udacity-movie-trailers-website/archive/master.zip)
+Get the code from the github repository [here](https://github.com/SteveWaweru/udacity-movie-trailers-website) or download the zip [here](https://github.com/SteveWaweru/udacity-movie-trailers-website/archive/master.zip).
+
 After extracting, navigate to the root folder using your terminal and run the file `entertainment_center.py`.
 
 ```
